@@ -5,7 +5,7 @@ function del() {
 
 Module['locateFile'] = function (path) {
     if (path.endsWith('.wasm')) {
-        return 'C:/Users/arnav/Documents/VS Code/BetBetter/algo_wasm.wasm'; // Adjust this path as necessary
+        return 'algo_wasm.js'; // Adjust this path as necessary
     }
     return path;
 };
