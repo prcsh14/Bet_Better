@@ -1,0 +1,67 @@
+body
+{
+    scroll-behavior: smooth;
+    background-color: #121212;
+}
+.con-1
+{
+    background-color: #121212;
+}
+.con-2
+{
+    background-color: #252525;
+    color: #b6b9c0;
+}
+.con-3
+{
+    background-color: #121212
+}
+.con-4
+{
+    background-color: #121212
+}
+.con-5
+{
+    background-color: #121212
+}
+.con-6
+{
+    background-color: #121212
+}
+.form-label
+{
+    color: #FF652F;
+}
+.form-control
+{
+    background-color: #cfcfcf;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    padding: 1em;
+    background-color: #ccc;
+    box-shadow: inset 2px 5px 10px rgba(0,0,0,0.3);
+    
+}
+.form-control:focus
+{
+    box-shadow: none;
+}
+.card
+{
+    background-color: #121212;
+    border-color: #FFC107;
+    color: #FFC107;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    padding: 1em;
+    background-color: #121212;
+    box-shadow: inset 2px 5px 70px rgba(0,0,0,0.3);
+
+}
+.close-button
+{
+    background-color: rgba(0,0,0,0);
+    border: 0;
+}
